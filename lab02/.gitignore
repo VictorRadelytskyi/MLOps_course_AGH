@@ -1,7 +1,10 @@
 **.csv
+*.csv.gz
+*.parquet
 /data/services-2024.json
 /data/services-2024.jsonl
 /data/services-2024.parquet
 *.db
+*.duckdb
 *.wal
 *.tsv
